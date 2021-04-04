@@ -1,2 +1,2 @@
-# learning_github
-Learning Git and Github
+# learning_git
+Editing File
